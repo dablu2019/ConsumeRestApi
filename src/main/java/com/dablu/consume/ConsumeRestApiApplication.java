@@ -11,6 +11,9 @@ public class ConsumeRestApiApplication {
 		System.out.println("Welcome to our new feature");
 		System.out.println("Welcome to our new feature");
 		System.out.println("Welcome to our new feature");
+		System.out.println("Welcome to our new feature");
+		System.out.println("Welcome to our new feature");
+		System.out.println("Welcome to our new feature");
 	}
 
 }
